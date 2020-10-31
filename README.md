@@ -1,5 +1,5 @@
-# aplicativos-bpmStartProcessLambdaExample
+# bpmStartProcessLambdaExample
 
-Lambda function utilizada para iniciar tarefas no BPM através das requisições de API, está lambda está sendo utilizada em DEMOS do botfactory.
+Uma função Lambda para realizar abertura de processos no BPM. Utilizada para demonstrações no BotFactory.
 
-### Tenha em mente que essa lambda é um exemplo e não deve ser utilizada para fins de produção!
+> O código deste repositório é apenas um exemplo e não deve ser utilizado para finalidade de produção!
